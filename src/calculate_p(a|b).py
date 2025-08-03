@@ -6,6 +6,7 @@ a = [1, 2, 3, 4, 5]
 b = [4, 5, 6, 7, 8, 9]
 sample_size = 9
 
+
 def calculate_p_a_given_b(a, b, sample_size):
     """
     Calculate P(A|B) using Bayes' theorem.
