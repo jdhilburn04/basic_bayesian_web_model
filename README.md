@@ -1,8 +1,8 @@
 # basic_bayesian_web_model
+Currently under development
 
-## Curently under development
+## Things to do:
     ```
-    Things to do:
     - Finish calculate_p(a|b).py
     - Create model_visualizer.py
     - Add data
